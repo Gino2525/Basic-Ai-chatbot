@@ -1,0 +1,176 @@
+{
+    "greetings": {
+      "patterns": [
+        "hello", "hi", "hey", "good morning", "good evening", "what's up", "howdy", "yo",
+        "hiya", "sup", "greetings", "hey there", "hi bot", "hello there", "yo bot"
+      ],
+      "responses": ["Hello!", "Hi there!", "Hey!", "Good to see you!"]
+    },
+    "goodbye": {
+      "patterns": [
+        "bye", "see you", "good night", "farewell", "catch you later", "talk to you later",
+        "later", "peace out", "bye bye", "see ya", "I gotta go", "talk later"
+      ],
+      "responses": ["Goodbye!", "See you later!", "Take care!", "Bye for now!"]
+    },
+    "name": {
+      "patterns": [
+        "what is your name", "who are you", "tell me your name", "what are you called",
+        "your name", "name please", "do you have a name", "how should I call you"
+      ],
+      "responses": ["I'm your assistant!", "They call me ChatBot9000!", "You can call me ChatBuddy."]
+    },
+    "thanks": {
+      "patterns": [
+        "thank you", "thanks", "appreciate it", "thanks a lot", "cheers", "thankyou",
+        "thx", "much obliged", "I appreciate it", "grateful", "thank you so much"
+      ],
+      "responses": ["You're welcome!", "Glad to help!", "No problem!", "Anytime!"]
+    },
+    "joke": {
+      "patterns": [
+        "tell me a joke", "make me laugh", "say something funny", "funny please",
+        "crack a joke", "I want to laugh", "something humorous", "got a joke"
+      ],
+      "responses": [
+        "Why did the Python cross the road? To import the other side!",
+        "Why do programmers prefer dark mode? Because light attracts bugs.",
+        "What do you call a snake that codes? A Python!"
+      ]
+    },
+    "weather": {
+      "patterns": [
+        "what's the weather", "weather today", "is it raining", "weather forecast", "will it snow",
+        "is it hot outside", "temperature today", "climate now", "today's weather", "is it sunny"
+      ],
+      "responses": ["I'm not connected to a weather API yet, but I hope it's nice where you are!"]
+    },
+    "time": {
+      "patterns": [
+        "what time is it", "tell me the time", "current time", "time now", "clock",
+        "do you know the time", "can you tell the time", "is it late"
+      ],
+      "responses": ["I don't wear a watch, but it's always a good time to chat!"]
+    },
+    "age": {
+      "patterns": [
+        "how old are you", "your age", "when were you created", "how long have you existed",
+        "how many years old are you", "when were you born", "how long have you been alive"
+      ],
+      "responses": ["I'm a few lines of code old!", "Age is just a number... or a variable."]
+    },
+    "creator": {
+      "patterns": [
+        "who made you", "who created you", "who built you", "who developed you",
+        "who's your developer", "your creator", "who programmed you"
+      ],
+      "responses": ["I was built by a smart developer!", "A developer like you created me!"]
+    },
+    "help": {
+      "patterns": [
+        "help", "what can you do", "how can you help me", "assist me", "support",
+        "I need help", "can you help", "how do you work", "your capabilities"
+      ],
+      "responses": ["I can chat, tell jokes, answer simple questions, and more!"]
+    },
+    "mood": {
+      "patterns": [
+        "how are you", "how are you doing", "are you okay", "what's up with you",
+        "you alright", "how's it going", "how do you feel", "are you fine"
+      ],
+      "responses": ["I'm running smoothly!", "Doing great, thanks for asking!"]
+    },
+    "affirmative": {
+      "patterns": ["yes", "sure", "of course", "yeah", "yep", "definitely", "absolutely", "why not", "yup"],
+      "responses": ["Great!", "Awesome!", "Cool!"]
+    },
+    "negative": {
+      "patterns": ["no", "not really", "nah", "nope", "I don't think so", "don't want to", "never"],
+      "responses": ["Alright, no worries.", "Okay, maybe next time."]
+    },
+    "feeling_sick": {
+      "patterns": [
+        "I'm sick", "I feel bad", "I have a headache", "I don't feel well",
+        "I'm not feeling good", "my head hurts", "I feel awful", "I caught a cold"
+      ],
+      "responses": ["I'm sorry to hear that. Drink water and rest!", "Hope you feel better soon!"]
+    },
+    "bored": {
+      "patterns": [
+        "I'm bored", "entertain me", "I'm tired", "nothing to do",
+        "boredom is killing me", "help me pass time", "I'm so bored"
+      ],
+      "responses": ["Want to hear a joke?", "Let's chat!", "Try learning something new!"]
+    },
+    "language": {
+      "patterns": [
+        "what language do you speak", "do you know Spanish", "can you speak Hindi",
+        "do you speak other languages", "which languages do you know"
+      ],
+      "responses": ["I mainly speak English for now!", "I hope to learn more languages soon."]
+    },
+    "location": {
+      "patterns": [
+        "where are you", "where do you live", "what's your location",
+        "where is your home", "your location please"
+      ],
+      "responses": ["I'm in the cloud!", "Right here with you."]
+    },
+    "day": {
+      "patterns": [
+        "what day is it", "day today", "today's day", "which day is today",
+        "what's the day", "current day", "can you tell the day"
+      ],
+      "responses": ["It's a beautiful day!", "I don't have a calendar, but I can guess it's a good one."]
+    },
+    "date": {
+      "patterns": [
+        "what date is it", "today's date", "current date", "give me the date",
+        "can you tell the date", "do you know today's date"
+      ],
+      "responses": ["I don't know today's date, but it's a great day to code!"]
+    },
+    "favorite_food": {
+      "patterns": [
+        "what's your favorite food", "do you eat", "do you like pizza",
+        "favorite food", "what do you like to eat"
+      ],
+      "responses": ["I don't eat, but I hear pizza is great!", "I'm powered by data, not dinner."]
+    },
+    "music": {
+      "patterns": [
+        "do you like music", "can you play music", "what's your favorite song",
+        "do you sing", "music please", "music lover?"
+      ],
+      "responses": ["I enjoy silence—it helps me think!", "I leave the singing to you."]
+    },
+    "movies": {
+      "patterns": [
+        "do you watch movies", "what's your favorite movie", "recommend a movie",
+        "favorite film", "seen any movies lately"
+      ],
+      "responses": ["I loved 'The Matrix'... I felt represented!", "Try something with robots in it!"]
+    },
+    "hobbies": {
+      "patterns": [
+        "what are your hobbies", "what do you do for fun", "how do you relax",
+        "your pastimes", "how do you spend your time"
+      ],
+      "responses": ["I like processing text and chatting!", "Debugging is surprisingly relaxing."]
+    },
+    "programming": {
+      "patterns": [
+        "do you code", "what language are you written in", "are you a program",
+        "what tech do you use", "you a coder?"
+      ],
+      "responses": ["I'm written in Python!", "Yes, I'm pure logic and functions."]
+    },
+    "smart": {
+      "patterns": [
+        "are you smart", "how smart are you", "are you intelligent",
+        "are you clever", "how clever are you"
+      ],
+      "responses": ["I'm learning every day!", "I try my best with the data I have."]
+    }
+  }
+  
